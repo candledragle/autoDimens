@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: sheng yan ming
+Class-Path: .
+Main-Class: GenerateValuesXml
